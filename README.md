@@ -5,4 +5,4 @@ About the dataset
 Here, we have daily data for 2 years.The target variable is the total count of bikes rented during each day.The independent variables are various factors like humidity, temperature, windspeed, weathersituation,season
 
 Models that have been used here 
-LinearRegression,DecisionTreeRegression,Ridge and Lasso Regression, AdaBoostRegression, GradientBoostRegression and StackingEnsemble using LinearRegression, AdaBoostRegression and GadientBoostRegression
+LinearRegression,DecisionTreeRegression,Ridge and Lasso Regression, AdaBoostRegression, GradientBoostRegression and StackingEnsemble using LinearRegression, AdaBoostRegression and GradientBoostRegression
